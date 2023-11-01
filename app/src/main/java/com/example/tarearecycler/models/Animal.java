@@ -30,13 +30,4 @@ public class Animal {
         this.patas = patas;
     }
 
-    public Integer getPeso() {
-        return peso;
-    }
-
-    public void setPeso(Integer peso) {
-        this.peso = peso;
-    }
-
-    private Integer peso;
 }
